@@ -6,8 +6,7 @@ This project is a feature-rich hotel management application built with **React**
 
 ## 🚀 Live Demo
 
-[Click here to view the live application](#)  
-(Replace `#` with your deployed app link)
+[Click here to view the live application](https://wild-oasis-rs.netlify.app/)  
 
 ---
 
